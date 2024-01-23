@@ -11,7 +11,8 @@ import SwiftUI
 struct PlantoApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            RootView()
+                .environmentObject(ViewRouter.shared)
         }
     }
 }

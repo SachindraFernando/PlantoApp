@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "banner-with-succulents-copy-space-background-generative-ai-free-photo.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "banner-with-succulents-copy-space-background-generative-ai-free-photo 1.jpeg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "banner-with-succulents-copy-space-background-generative-ai-free-photo 2.jpeg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
